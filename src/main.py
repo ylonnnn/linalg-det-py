@@ -1,4 +1,4 @@
-from linalg.matrix import Matrix
+from linalg import Matrix
 from random import randint
 
 
