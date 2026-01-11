@@ -22,6 +22,7 @@ A = Matrix.from_size(3, 4)
 
 **`.from_rows(rows: list[Vector])`**
 `where Vector = list[float]`
+
 **`.from_rows(rows: list[list[float]])`**
 
 - Constructs a matrix from the provided list of row vectors.
@@ -44,6 +45,7 @@ A = Matrix.from_rows([
 
 **`.from_cols(cols: list[Vector])`**
 `where Vector = list[float]`
+
 **`.from_cols(cols: list[list[float]])`**
 
 - Constructs a matrix from the provided list of column vectors.
